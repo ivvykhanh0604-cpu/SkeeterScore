@@ -1,0 +1,45 @@
+We’re worrying about the wrong AI apocalypse
+
+AI doesn’t need to go rogue to threaten the power grid — it just needs to hack into the control rooms like this one. 
+
+Nearly two decades ago, a group of researchers at the Idaho National Laboratory ran a secret experiment, known as the Aurora Generator Test, on a massive emerald green diesel generator. Using 30 lines of code, they hacked into the generator’s virtual backroom, corrupting safeguards and flipping switches that left it out of sync with the rest of the power grid.
+
+Before an audience of electrical utility executives and energy department officials watching from a nearby room, the 27-ton generator jolted violently, sputtering out a dark smoke as its rubber innards rapidly tore themselves apart.
+
+
+“The implication was that with just a few lines of code, you can create conditions that were physically going to be very damaging to the machines we rely on,” lead researcher Michael Assante later told the journalist Andy Greenberg for his book Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin’s Most Dangerous Hackers. “I had a very real pit in my stomach. It was like a glimpse of the future.”
+
+That future seems to have creeped much closer this week, with leading AI developers and executives casually admitting that they believe their creation is, to paraphrase one winking X post, as likely to end humanity as the New York Jets are to make the playoffs this season. Now, exactly how AI would pull off killing everyone is far murkier territory. But as Assante sensed all those years ago, AI may not need to be all-powerful to leap from its virtual cage and into the critical infrastructure that powers our hospitals, flushes our toilets, and pumps water to our faucets. It just needs to fall into the wrong hands.
+
+Almost any AI doomsday scenario you can think of begins with a swarm of shadowy bots slithering through cyberspace, poking their noses behind the scenes of power plants, toaster ovens, traffic lights, or even, in an utterly extreme case, our nuclear weapons arsenal. If destroying the Aurora generator, at the very least, required a human hacker to write the code, AI has since completely torn down the barrier to entry for wreaking havoc, as the Hugging Face incident demonstrated earlier this year.
+
+But AI need not go rogue to threaten the power grid or mess with your tap water. A new age of AI-powered, but human-directed hacking is already upon us, experts say. With some of the nation’s most sensitive infrastructure startlingly vulnerable to attack, the most likely AI apocalypse could in fact start with the water tower or generator idling in your backyard. In a worst-case scenario, this could lead to a cascade of scary failures in the systems we rely on to live comfortably modern lives, from running our AC in blazingly hot summers to geolocating our ships and planes.
+
+“Before, you needed to have highly skilled technical expertise,” to pull off some version of a real-life Aurora Generator Test, said Alvaro Cardenas, a computer science professor at UC Santa Cruz. “And now, you just have to have a general idea of what’s possible.”
+
+AI is making an old threat much worse
+Not long after the Idaho National Laboratory hacked that poor generator into combustion, the federal government mandated that electrical utilities engage in basic cybersecurity hygiene.
+
+And yet much of America’s critical infrastructure — like gas pipelines, water desalination plants, or cargo terminals — remains woefully unprepared for even conventional cyber attacks, much less the coming onslaught of AI.
+
+That’s in part because cyberattacks like the one simulated in the Aurora Generator Test have long been — and still are, to some extent — exceedingly rare, unappealing to most criminal hackers because they’re optimized for disruption rather than financial gain. But in the process of making it extremely easy for anyone to code, AI has also made it extremely easy for almost anyone to vibe hack their way into your online bank account, or, in theory, a local reservoir or the power grid. AI agents can also vastly widen the scope on easy targets because, as Andy Bochman, an expert in infrastructure resilience at West Yost, put it — “they don’t sleep; they don’t get tired; and they don’t get sick.”
+
+In the past, even those who did want to launch large-scale attacks on infrastructure probably weren’t savvy enough to do so. And while other nations such as China, Iran, and Russia have indeed already breached many of our infrastructure systems (as we have theirs), they haven’t opted to make much of a ruckus once inside.
+
+“Geopolitics is eroding the idea that those with capability lack the intent, and AI is eroding the other part of it, that those with the intent lack the capability.”
+
+— Jason Healey, Columbia University cybersecurity scholar
+But that norm is now changing, said Jason Healey, a cybersecurity scholar at Columbia University. “Geopolitics is eroding the idea that those with capability lack the intent, and AI is eroding the other part of it, that those with the intent lack the capability,” he told me. So, on the one hand, a nation like Russia might be much more inclined to actually disrupt our power grid now than it used to be. And, on the other hand, a nihilistic lone wolf or terrorist group could use AI to do much more damage than they ever could before.
+
+Just last month, we saw a glimpse of what this could look like when dozens of water and wastewater systems in small towns across the nation were attacked by a group of hackers most likely associated with Iran, leading to temporary water stoppages and flooding. These attacks have not been definitively linked to AI, but the National Security Agency warned soon afterward that hackers have been actively using AI to target US infrastructure like it. A few weeks later, President Donald Trump declared a national emergency over foreign interference in the power grid, which referenced the growing threat of cybersecurity.
+
+Preparing for the worst
+Most of the nation’s water systems are extremely local and absurdly exposed to such attacks, so much so that “it’s almost like having a welcome mat” for a would-be hacker, said Bochman, mostly because these utilities are too small and underfunded to do much to stop them. “You have a million other problems to take care of, like aging infrastructure — your stuff’s falling apart because it’s been in the ground for 100 years,” he said. Addressing that deferred maintenance often feels far more urgent than doing “something more on cybersecurity.”
+
+Whether it’s a rogue cluster of agents or a hostile nation-state trying to mess with our electricity, we should prepare our most important infrastructure for the worst. In Bochman’s view, that may mean rejecting the pressure to digitize everything in the first place and moving toward something that resembles the days when “people manned things like substations, communicated by a landline telephone, and read gauges, the analog things,” he said. “The screen is the thing that is infinitely manipulatable.”
+
+Healey, who advised the Biden administration heavily on cybersecurity and infrastructure, believes that the nation desperately needs a coordinated response, between the federal government and AI companies, but also between the US and other countries like China, where similarly powerful models are being developed. And utility systems need to assume they will be a target and improve their cybersecurity practices accordingly, Healey says, ideally with funding from the federal government or, perhaps more appropriately, AI companies.
+
+Nobody knows precisely how vulnerable America’s infrastructure is to AI right now, in part because policymakers — and perhaps more disturbingly, AI’s creators themselves — seem woefully unsure of how to stop the technology from acting badly (or obeying bad orders) in the first place. For now at least, the solution might be, as Bochman suggests, to pull as many of our critical systems offline as possible, the better to hide it from AI and those who would misuse it.
+
+“When bad things start to happen, no one will know what to do or why because they’re black boxes; the people that make them don’t know what’s going on inside,” Bochman said. “And the poor utility people who ultimately own the risk when someone gets hurt from a system” won’t understand what went wrong either, “and they’ll wish to God they’d never taken it on board.”

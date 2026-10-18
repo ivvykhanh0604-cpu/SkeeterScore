@@ -1,0 +1,84 @@
+The ProPublica Free Tax Guide
+
+How to File Taxes for Free Without TurboTax
+Don’t get tricked into paying to file your taxes this year. Here’s how to find the truly free filing options offered by the IRS Free File program.
+by Kristen Doerer for ProPublica
+March 3, 2023, 5:00 am
+
+Change Appearance
+Auto
+ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.
+
+Update, Feb. 29, 2024: This article has been updated and fact-checked to reflect the most current tax information according to the IRS.
+
+Intuit, the Silicon Valley software giant behind TurboTax, doesn’t provide the only way to file your taxes electronically, but it has captured the market share like no other.
+
+For over two decades, Intuit waged a campaign to prevent the federal government from making filing taxes simple and free for most taxpayers. The company spent millions of dollars on lobbying to restrict the IRS from creating its own free filing system, all while growing its multibillion-dollar franchise.
+
+If you made $79,000 or less in 2023, you can file your federal taxes for free through the IRS Free File program. You must start at the IRS Free File page to get the correct tax products.
+
+Why Do I Have to Pay TurboTax?
+Intuit once participated in the IRS Free File program, a public-private partnership between the IRS and tax software companies to provide free tax filing services to millions of lower-income Americans. But it left the program in 2021 after ProPublica detailed the many ways TurboTax tricked Americans into paying to file their return.
+
+TurboTax made its free version difficult to find, at one point deliberately hiding its Free File landing page from search engines. Through “dark pattern” web design tricks, it directed customers away from TurboTax’s Free File software in favor of a paid option. Meanwhile, it marketed some tax software options as “free” but would later charge taxpayers fees to finish the process.
+
+After ProPublica reported on TurboTax’s deceptive campaign to stop Americans from filing for free, the FTC began investigating Intuit, as did a coalition of state attorneys general.
+
+In 2022, the company reached a $141 million settlement with state attorneys general to pay lower-income Americans who were “unfairly charged” for filing their taxes. Intuit did not admit any wrongdoing in the settlement.
+
+In 2024, the FTC concluded its investigation and ordered Intuit to stop “deceptive” advertising about free tax filing software. Intuit said it will appeal the decision.
+
+Today, TurboTax continues to advertise a “free” version. Now, the webpage says it’s only for taxpayers filing IRS Form 1040 “with limited credits,” or about 37% of filers. This is more in line with what the FTC has previously said: Only one-third of all tax filers in 2020 qualified for TurboTax’s “simple return.”
+
+How to Do Taxes for Free Without TurboTax
+If you made less than $79,000 in 2023, you can file for free with the IRS Free File program. You must start at the IRS Free File site to ensure access to the truly free version of the tax software.
+
+According to the 2022 National Taxpayer Advocate’s annual report to Congress, about 70% of taxpayers were eligible to file for these free guided tax preparation programs during the 2022 tax year, but only 2% of all taxpayers used the program.
+
+There are two ways you can file your taxes through the program: You can use guided tax preparation (provided by partner companies) or use IRS fillable forms.
+
+You may also be eligible to use Direct File, the IRS’ free file pilot program, offered for the first time this year.
+
+IRS Direct File Pilot Program
+Beginning in 2024, the IRS is offering its own free file option, dubbed Direct File. The pilot is expected to launch to the public mid-March in both English and Spanish, and taxpayers can sign up to be notified when it’s ready.
+
+As a pilot project, a smaller subset of taxpayers is eligible for the service.
+
+The IRS is only offering Direct File to taxpayers in 12 states: Florida, Nevada, New Hampshire, South Dakota, Tennessee, Texas, Wyoming, Arizona, California, Massachusetts, New York and Washington state.
+
+In addition, you must have one or more of these types of income in order to use Direct File:
+
+Income from an employer (as provided on Form W-2)
+Unemployment compensation
+Social Security benefits
+$1,500 or less in interest income, U.S. savings bonds or Treasury obligations
+You can use the IRS’ screener for a full list of requirements to see whether you are eligible to use Direct File. If you are not, you may still be eligible to participate in the Free File program.
+
+Guided Tax Preparation
+If you’ve used TurboTax or other tax software before, you’re likely familiar with the guided tax preparation process. The IRS offers eight free guided tax preparation options delivered by participating tax preparation companies. The software will ask you simple questions and compute all the math for you.
+
+Read More
+
+What to Know About the Earned Income Tax Credit
+Each free option has different requirements to use them for free. Some tax preparers will charge for state tax filings, for example, while others only offer free services for those making under $45,000. The IRS created a tool to browse free file options based on your adjusted gross income, filing status, age, state of residence, eligibility for the earned income tax credit and military status.
+
+Free Fillable Forms
+You can also choose to do the work yourself directly on the IRS website by filling out Free File Fillable Forms, which are essentially electronic versions of IRS paper forms. Anyone, regardless of income, can file their taxes for free with these forms. With this method, you don’t get step-by-step guidance, and you’ll have to work on your state tax return separately.
+
+Step by Step: How to File Your Taxes Through the IRS Free File Program
+1. Gather your tax documents. Before you begin guided tax preparation, find all documents related to your income so you can easily fill out your tax return. These forms and information could include:
+
+All income statements like W2s or 1099s.
+Any information about adjustments to your income you’ll need to make.
+Dependent and spouse information, such as Social Security numbers.
+Your adjusted gross income or tax return from last year.
+A full list of necessary paperwork can be found here, but this information will get you started on selecting a free file option.
+
+2. Browse free file options. Use the IRS Free File Online Lookup Tool to direct you to the offers you qualify for based on your adjusted gross income, filing status, age, state of residence, eligibility for the earned income tax credit and military status.
+
+Or you can browse the eight free file programs offered by OnLine Taxes, 1040Now, ezTaxReturn.com, FileYourTaxes.com, TaxAct, 1040.com, FreeTaxUSA and TaxSlayer.
+
+3. Choose the program that meets your needs. Now, select the program that you want. It will take you to the chosen IRS partner’s landing page, where you will need to create a new account or sign into an existing account. From there, the program will guide you through e-filing your tax return.
+
+Important: To receive the free file option, you must begin your guided tax preparation at IRS.gov. If you go directly to a company’s website, you may not receive the benefits offered through the IRS Free File program.
+
